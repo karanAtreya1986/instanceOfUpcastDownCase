@@ -1,0 +1,25 @@
+we can handle null pointer exception by first checking instanceof and then working on objects.
+Instanceof – returns true or false.
+
+Instanceof – can also tell us whether relationship exist between parent and child.
+
+Instanceof solves null pointer exception and class cast exceptions.
+
+Upcasting-
+Casting to super type. Also known as casting to parent class object.
+Downcasting –
+Casting to child class object.
+
+parent cannot be instance of child.
+child is by default instance of parent.
+
+Child class can access all methods in inheritance hierarchy.
+
+String s1=”abcd”; -> this are literals or constants or variable with value as literal.
+
+With objects == fails. Only equals works.
+
+== doesn’t work for objects.
+== works only for literals.
+
+
